@@ -1,4 +1,4 @@
-# Micron
+# ![logo](img\logo.png)
 
 ## Introduction to 
 
